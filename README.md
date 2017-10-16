@@ -6,6 +6,13 @@ Link to the old page:
 > http://shirodev.wixsite.com/noeleugenio
 (Please note this site hasn't been updated in quite a while and doesn't reflect the most recent projects)
 
+# TODO
+
+* Add all content within the HTML files
+* Create a visually appealing layout (I hope)
+* Add images for the different projects
+* _More to be added_
+
 # Reference
 
 A small list of resources I'm using or will look into to learn HTML and CSS.
