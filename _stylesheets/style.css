@@ -3,14 +3,24 @@ body
   background-color: rgb(76,192,187);
 }
 
-h1
+.Name
 {
+  text-align: center;
+  margin-top: 100px;
   color: navy;
-  margin-left: 20px;
 }
 
-p.test
+nav ul
 {
-  border-left: 3px solid red;
-  background-color: lightgrey;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+nav li
+{
+  text-align: center;
+  display: inline-block;
+  margin: 20px;
 }
