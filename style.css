@@ -6,13 +6,6 @@ body
 h1
 {
   color: navy;
-  margin-left: 20px;
-}
-
-.test
-{
-  border-left: 3px solid red;
-  background-color: lightgrey;
 }
 
 .tempHead
