@@ -21,6 +21,17 @@ img
   text-align: center;
 }
 
+.ProjectOne
+{
+  margin: auto;
+  padding: 10px;
+}
+
+.ProjectOneDesc
+{
+  color: white;
+}
+
 nav ul
 {
   text-align: center;
