@@ -11,6 +11,7 @@ Link to the old page:
 * Add all content within the HTML files
 * Create a visually appealing layout (I hope)
 * Add images for the different projects
+* Design website design in Photoshop for better visualization
 * _More to be added_
 
 # Reference
@@ -22,3 +23,10 @@ A small list of resources I'm using or will look into to learn HTML and CSS.
 * https://learn.shayhowe.com/html-css/
 * http://www.simplehtmlguide.com/cheatsheet.php
 * https://websitesetup.org/css3-cheat-sheet/
+* https://www.theodinproject.com/
+
+# Asset Reference
+
+A list of assets that are used within this website
+
+* Roboto Font Family : https://www.dafont.com/roboto.font
