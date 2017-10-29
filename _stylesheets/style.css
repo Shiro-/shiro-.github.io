@@ -1,13 +1,19 @@
 body
 {
-  background-color: rgb(76,192,187);
+  background-color: #000000;
+}
+
+img
+{
+  max-width: 100%;
+  height: auto;
 }
 
 .Name
 {
   text-align: center;
   margin-top: 360px;
-  color: navy;
+  color: white;
 }
 
 .Old
@@ -21,12 +27,12 @@ nav ul
   margin: 0;
   padding: 0;
   list-style: none;
-  background-color: red;
 }
 
 nav li
 {
   text-align: center;
   display: inline-block;
+  color: white;
   margin: 20px;
 }
