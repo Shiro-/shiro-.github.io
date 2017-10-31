@@ -21,6 +21,17 @@ img
   text-align: center;
 }
 
+.about
+{
+  background-color: #000000;
+  color: white;
+  opacity: 0.5;
+  margin: auto;
+  width: 50%;
+  border: 0px;
+  padding: 30px;
+}
+
 .ProjectOne
 {
   margin: auto;
