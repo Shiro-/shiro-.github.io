@@ -1,6 +1,6 @@
 body
 {
-  background-color: #000000;
+  background-color: black;
 }
 
 img
@@ -23,7 +23,7 @@ img
 
 .containera
 {
-  background-color: : #000000;
+  background-color: : black;
   margin: auto;
   width: 50%;
   padding: 30px;
