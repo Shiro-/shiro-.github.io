@@ -1,6 +1,6 @@
 body
 {
-  background-color: #000000;
+  background-color: white;
 }
 
 img
@@ -21,17 +21,15 @@ img
   text-align: center;
 }
 
-.base
+.containera
 {
-  background-color: #000000;
-  opacity: 0.15;
+  background-color: : rgba(0, 0, 0, 0.5);
   margin: auto;
   width: 50%;
-  border: 0px;
   padding: 30px;
 }
 
-.about
+.contenta
 {
   color: white;
   text-align: center;
