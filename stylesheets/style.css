@@ -23,29 +23,16 @@ img
 
 .containera
 {
-  position: relative;
+  background-color: : rgba(0, 0, 0, 0.5);
+  margin: auto;
+  width: 50%;
+  padding: 30px;
 }
 
 .contenta
 {
-  position: relative;
-  margin: auto;
   color: white;
   text-align: center;
-  z-index: 5;
-}
-
-.bg
-{
-  position: absolute;
-  top: 0px;
-  left: 0px;
-  width: 60%;
-  height: 100%;
-  padding: 30px;
-  background-color: #000000;
-  z-index: 1;
-  opacity: 0.5;
 }
 
 .ProjectOne
