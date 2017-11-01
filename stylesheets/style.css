@@ -21,15 +21,20 @@ img
   text-align: center;
 }
 
-.about
+.base
 {
   background-color: #000000;
-  color: white;
-  opacity: 0.5;
+  opacity: 0.15;
   margin: auto;
   width: 50%;
   border: 0px;
   padding: 30px;
+}
+
+.about
+{
+  color: white;
+  text-align: center;
 }
 
 .ProjectOne
