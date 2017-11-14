@@ -6,20 +6,23 @@ body
 #container
 {
   background-color: #D9D5D2;
-  width: 1200px;
+  width: 1800px;
   margin-left: auto;
   margin-right: auto;
+  margin-top: 350px;
 }
 
 #imglogo
 {
-
+  display: block;
+  margin-left: 650px;
+  width: 50%;
 }
 
 #content
 {
   background-color: white;
-  width: 50%;
+  width: 30%;
   margin: auto;
   padding: 5px;
 }
@@ -38,6 +41,7 @@ body
 #oldwebsite
 {
   text-align: center;
+  padding: 10px;
 }
 
 nav ul
