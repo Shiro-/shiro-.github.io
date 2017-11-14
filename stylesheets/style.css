@@ -1,19 +1,21 @@
 body
 {
-  background-color: black;
+  background-color: #B2B2B2;
 }
 
-img
+#container
 {
-  max-width: 100%;
-  height: auto;
+  background-color: #D9D5D2;
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
-.Name
+#name
 {
+  background-color: #D6D6D6;
   text-align: center;
-  margin-top: 360px;
-  color: white;
+  color: #000000;
 }
 
 .Old
