@@ -63,12 +63,32 @@ body
 
 #projectsleft
 {
-
+  background-color: red;
+  width: 50%;
+  float: left;
 }
 
 #projectsright
 {
+  background-color: blue;
+  width: 50%;
+  float: right;
+}
 
+#project001
+{
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+}
+
+#project002
+{
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
 }
 
 nav ul
