@@ -1,3 +1,10 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
 body
 {
   background-color: #B2B2B2;
@@ -73,6 +80,33 @@ body
   background-color: blue;
   width: 50%;
   float: right;
+}
+
+#projectcontainer
+{
+  position: relative;
+}
+
+.desc
+{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(29, 106, 154, 0.72);
+  color: #fff;
+  visibility: hidden;
+  opacity: 0;
+
+  /* transition effect. not necessary */
+  transition: opacity .2s, visibility .2s;
+}
+
+#projectcontainer:hover .desc
+{
+  visibility: visible;
+  opacity: 1;
 }
 
 #project001
