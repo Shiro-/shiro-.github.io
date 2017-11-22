@@ -39,13 +39,7 @@ body
   padding: 5px;
 }
 
-#name, #title
-{
-  text-align: center;
-  color: #000000;
-}
-
-#aboutme
+#name, #title, #aboutme
 {
   text-align: center;
   color: #000000;
@@ -58,12 +52,7 @@ body
   width: 100%;
 }
 
-#nav
-{
-  width: 100%;
-}
-
-#showcase
+#nav, #showcase
 {
   width: 100%;
 }
@@ -120,6 +109,12 @@ body
   height: auto;
   margin: auto;
   padding: 10px;
+}
+
+#footer
+{
+  clear: both;
+  text-align: center;
 }
 
 nav ul
