@@ -82,7 +82,7 @@ body
   float: right;
 }
 
-#projectcontainer
+.projectcontainer
 {
   position: relative;
 }
@@ -104,7 +104,7 @@ body
   transition: opacity .2s, visibility .2s;
 }
 
-#projectcontainer:hover .desc
+.projectcontainer:hover .desc
 {
   visibility: visible;
   opacity: 1;
