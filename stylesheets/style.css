@@ -39,7 +39,9 @@ body
   padding: 5px;
 }
 
-#name, #title, #aboutme
+#name,
+#title,
+#aboutme
 {
   text-align: center;
   color: #000000;
@@ -102,7 +104,10 @@ body
 #project001,
 #project002,
 #project003,
-#project004
+#project004,
+#project005,
+#project006,
+#project007
 {
   display: block;
   max-width: 90%;
