@@ -24,6 +24,7 @@ A small list of resources I'm using or will look into to learn HTML and CSS.
 * http://www.simplehtmlguide.com/cheatsheet.php
 * https://websitesetup.org/css3-cheat-sheet/
 * https://www.theodinproject.com/
+* https://stackoverflow.com/questions/14263594/how-to-show-text-on-image-when-hovering (Hovering over images solution)
 
 # Asset Reference
 
