@@ -99,6 +99,12 @@ body
   opacity: 1;
 }
 
+.projectimagesdescriptions
+{
+  width: 100%;
+  height: auto;
+}
+
 #project001,
 #project002,
 #project003,
@@ -114,10 +120,9 @@ body
   padding: 10px;
 }
 
-#projectimagesdescriptions
+#test
 {
-  width: 100%;
-  height: auto;
+  
 }
 
 #footer
