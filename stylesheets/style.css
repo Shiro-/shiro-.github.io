@@ -122,7 +122,12 @@ body
 
 #test
 {
-  
+  width: 100%;
+}
+
+#test2
+{
+  width: 100%;
 }
 
 #footer
