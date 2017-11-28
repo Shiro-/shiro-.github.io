@@ -99,15 +99,15 @@ body
   opacity: 1;
 }
 
-#projectdisplay
+.text
 {
-  max-width: 100%;
+  width: 98%;
+  margin: auto;
 }
 
 .projectimages
 {
   display: block;
-  float: left;
   width: 100%;
   margin: auto;
 }
