@@ -105,6 +105,13 @@ body
   margin: auto;
 }
 
+.abouttext
+{
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+
 .projectimages
 {
   display: block;
