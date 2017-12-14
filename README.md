@@ -10,8 +10,8 @@ Link to the old page:
 
 * Add all content within the HTML files
 * Create a visually appealing layout (I hope)
-* Add images for the different projects
-* Design website design in Photoshop for better visualization
+* ~~Add images for the different projects~~
+* ~~Design website design in Photoshop for better visualization~~
 * _More to be added_
 
 # Reference
