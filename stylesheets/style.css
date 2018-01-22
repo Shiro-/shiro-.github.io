@@ -59,16 +59,10 @@ body
   width: 100%;
 }
 
-#projectsleft
+#projectsbox
 {
-  width: 50%;
-  float: left;
-}
-
-#projectsright
-{
-  width: 50%;
-  float: right;
+  width: 80%;
+  margin: auto;
 }
 
 .projectcontainer
@@ -129,7 +123,7 @@ body
 #project008
 {
   display: block;
-  max-width: 90%;
+  width: 50%;
   height: auto;
   margin: auto;
   padding: 10px;
