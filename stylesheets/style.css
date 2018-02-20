@@ -131,6 +131,7 @@ body
 
 #footer
 {
+  height: inherit;
   clear: both;
   text-align: center;
 }
