@@ -59,6 +59,11 @@ body
   width: 100%;
 }
 
+#video
+{
+  display: block;
+  margin: auto;
+}
 
 #projectsbox
 {
