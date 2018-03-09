@@ -12,7 +12,12 @@ Link to the old page:
 * Create a visually appealing layout (I hope)
 * ~~Add images for the different projects~~
 * ~~Design website design in Photoshop for better visualization~~
+* Create new demo reel
+* Restructure resume section
+* Get my own domain?
 * _More to be added_
+
+# CURRENT STATUS: 60-70% Completed
 
 # Reference
 
