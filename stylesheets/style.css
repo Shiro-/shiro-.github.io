@@ -13,7 +13,7 @@ body
 header
 {
   display: flex;
-  width: 90%;
+  width: 100%;
   height: 12vh;
   margin: auto;
   align-items: center;
@@ -45,7 +45,7 @@ nav
   margin: auto;
   min-height: 80vh;
   align-items: center;
-  text-align-last: center;
+  text-align: center;
 }
 
 .introduction
@@ -59,11 +59,8 @@ nav
   font-weight: 600;
 }
 
-.background
+
+.bg-image
 {
-  height: 100%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  z-index: -1;
+  background: lightgreen;
 }
