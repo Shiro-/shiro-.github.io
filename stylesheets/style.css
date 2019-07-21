@@ -9,30 +9,13 @@ body
   font-family: 'Asap', sans-serif;
 }
 
-
 header
 {
   display: flex;
   width: 90%;
+  height: 12vh;
   margin: auto;
   align-items: center;
-}
-
-.logo-container, .nav-links
-{
-  display: flex;
-}
-
-.logo-container
-{
-  background: lightblue;
-  flex: 1;
-}
-
-.logo
-{
-  font-weight: 400;
-  margin: 5px;
 }
 
 nav
@@ -43,6 +26,7 @@ nav
 
 .nav-links
 {
+  display: flex;
   justify-content: space-around;
   list-style: none;
 }
@@ -50,6 +34,6 @@ nav
 .nav-link
 {
   color: black;
-  font-size: 18px;
+  font-size: 32px;
   text-decoration: none;
 }
