@@ -4,9 +4,10 @@
   padding: 0px;
   box-sizing: border-box;
 }
+
 body
 {
-  font-family: 'Asap', sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 header
@@ -20,8 +21,7 @@ header
 
 nav
 {
-  background: lightgreen;
-  flex: 1.5;
+  flex: 1;
 }
 
 .nav-links
@@ -36,4 +36,25 @@ nav
   color: black;
   font-size: 32px;
   text-decoration: none;
+}
+
+.presentation
+{
+  display: flex;
+  width: 90%;
+  margin: auto;
+  min-height: 80vh;
+  align-items: center;
+  text-align-last: center;
+}
+
+.introduction
+{
+  flex: 1;
+}
+
+.intro-text
+{
+  font-size: 48px;
+  font-weight: 600;
 }
