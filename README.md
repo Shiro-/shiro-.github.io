@@ -8,13 +8,20 @@ Link to the old page:
 
 # TODO
 
-* Add all content within the HTML files
-* Create a visually appealing layout (I hope)
+* ~~Add all content within the HTML files~~
+* ~~Create a visually appealing layout (I hope)~~
 * ~~Add images for the different projects~~
 * ~~Design website design in Photoshop for better visualization~~
+* ~~Create new demo reel~~
+* ~~Restructure resume section~~
+* ~~Get my own domain?~~
+* Redo entire website (_In Progress_)
+* Add relevant links
+* Source pictures to make it more visually appealing
 * Create new demo reel
-* Restructure resume section
-* Get my own domain?
+* Add new sections within contact pertaining to relevant information (such as blog links etc)
+* Add new projects
+* Resume section??
 * _More to be added_
 
 # CURRENT STATUS: 60-70% Completed
@@ -30,9 +37,11 @@ A small list of resources I'm using or will look into to learn HTML and CSS.
 * https://websitesetup.org/css3-cheat-sheet/
 * https://www.theodinproject.com/
 * https://stackoverflow.com/questions/14263594/how-to-show-text-on-image-when-hovering (Hovering over images solution)
+* https://www.youtube.com/watch?v=ZeDP-rzOnAA&t (Dev Ed)
 
 # Asset Reference
 
 A list of assets that are used within this website
 
 * Roboto Font Family : https://www.dafont.com/roboto.font
+* Open Sans : https://fonts.google.com/specimen/Open+Sans?selection.family=Open+Sans:400,600
