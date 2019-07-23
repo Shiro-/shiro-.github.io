@@ -59,8 +59,33 @@ nav
   text-align: center;
 }
 
-
 .bg-image
 {
   background: lightgreen;
+}
+
+@media screen and (max-width: 1080px)
+{
+  .nav-link
+  {
+    font-size: 26px;
+  }
+  .presentation
+  {
+    margin: auto;
+    flex-direction: column;
+  }
+  .introduction
+  {
+    margin-top: 30vh;
+  }
+  .intro-text h1 
+  {
+    font-size: 24px;
+  }
+  .intro-text p
+  {
+    font-size: 18px;
+  }
+
 }
