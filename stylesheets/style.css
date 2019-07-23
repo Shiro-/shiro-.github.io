@@ -39,7 +39,8 @@ nav
 
 .nav-link
 {
-  color: black;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   font-size: 32px;
   text-decoration: none;
 }
@@ -62,6 +63,8 @@ nav
 {
   font-size: 48px;
   font-weight: 600;
+  color: white;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
   text-align: center;
 }
 
