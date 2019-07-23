@@ -8,7 +8,13 @@
 body
 {
   font-family: 'Open Sans', sans-serif;
+  background-image: url("../images/ProjectUmbra_002.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed;
 }
+
 
 header
 {
@@ -57,11 +63,6 @@ nav
   font-size: 48px;
   font-weight: 600;
   text-align: center;
-}
-
-.bg-image
-{
-  background: lightgreen;
 }
 
 @media screen and (max-width: 1080px)

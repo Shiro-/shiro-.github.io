@@ -16,8 +16,8 @@ Link to the old page:
 * ~~Restructure resume section~~
 * ~~Get my own domain?~~
 * Redo entire website (_In Progress_)
-* Add relevant links
-* Source pictures to make it more visually appealing
+* Add relevant links (_In Progress_)
+* Source pictures to make it more visually appealing (_In Progress_)
 * Create new demo reel
 * Add new sections within contact pertaining to relevant information (such as blog links etc)
 * Add new projects
