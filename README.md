@@ -38,6 +38,7 @@ A small list of resources I'm using or will look into to learn HTML and CSS.
 * https://www.theodinproject.com/
 * https://stackoverflow.com/questions/14263594/how-to-show-text-on-image-when-hovering (Hovering over images solution)
 * https://www.youtube.com/watch?v=ZeDP-rzOnAA&t (Dev Ed)
+* https://stackoverflow.com/questions/2570972/css-font-border (Text border solution)
 
 # Asset Reference
 
