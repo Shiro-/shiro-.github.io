@@ -93,6 +93,7 @@ nav
 
 .project-1-img
 {
+  background-size: cover;
   object-fit: cover;
 }
 
